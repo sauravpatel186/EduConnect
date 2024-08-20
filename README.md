@@ -1,5 +1,5 @@
 <h2>EduConnect: EduConnect: A MERN-Based Online Classroom Platform</h2>
-<p><ul>
+<p><h6>Tech Stack</h6><ul>
   <li>React JS</li>
   <li>Node JS</li>
   <li>MongoDB</li>
